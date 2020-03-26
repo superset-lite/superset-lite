@@ -16,7 +16,7 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 -->
-Superset
+Superset Lite
 =========
 
 [![Build Status](https://travis-ci.org/apache/incubator-superset.svg?branch=master)](https://travis-ci.org/apache/incubator-superset)
@@ -34,7 +34,9 @@ Superset
 />
 
 **Apache Superset** (incubating) is a modern, enterprise-ready
-business intelligence web application
+business intelligence web application.
+
+**Superset Lite** (WIP) is a completely rewrite of its frontend UI by rethinking how a modern BI tool should be used.
 
 
 Screenshots & Gifs
